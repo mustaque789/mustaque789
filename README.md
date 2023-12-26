@@ -25,4 +25,4 @@
 
 <p style="background-color: #001F3F"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaque789&show_icons=true&locale=en" alt="mustaque789" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaque789&" alt="mustaque789" /></p>
+<p><img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaque789&" alt="mustaque789" /></p>
